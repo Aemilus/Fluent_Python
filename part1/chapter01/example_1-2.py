@@ -16,6 +16,10 @@ class Vector:
     def __bool__(self):
         return bool(abs(self))
 
+    # a faster implementation of the above __bool__
+    # def __bool__(self):
+    #     return bool(self.x or self.y)
+
     def __add__(self, other):
         x = self.x + other.x
         y = self.y + other.y

@@ -1,5 +1,7 @@
 ### Boolean Operations — `and`, `or`, `not`
 
+[Source](https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not)
+
 These are the Boolean operations, ordered by ascending priority:
 
 | Operation | Result | Notes |

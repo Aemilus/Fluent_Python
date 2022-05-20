@@ -19,3 +19,8 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 #### Listcomps Versus map and filter
 - [Example 2-3. The same list built by a listcomp and a map/filter composition](part2/chapter02/example_2-3.py)
 - [Map, Filter and Reduce](part2/chapter02/map_filter_reduce.md)
+#### Cartesian Products
+- [Example 2-4. Cartesian product using a list comprehension](part2/chapter02/example_2-4.py)
+#### Generator Expressions
+- [Example 2-5. Initializing a tuple and an array from a generator expression](part2/chapter02/example_2-5.py)
+- [Example 2-6. Cartesian product in a generator expression](part2/chapter02/example_2-6.py)

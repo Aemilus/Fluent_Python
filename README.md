@@ -13,6 +13,7 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 - [Boolean Operations](part1/chapter01/boolean_operations.md)
 
 ### [Chapter 02 - An Array of Sequences](part2/chapter02)
+### List Comprehensions and Generator Expressions
 #### List Comprehensions and Readability
 - [Example 2-1. Build a list of Unicode codepoints from a string](part2/chapter02/example_2-1.py)
 - [Example 2-2. Build a list of Unicode codepoints from a string, take two](part2/chapter02/example_2-2.py)
@@ -24,3 +25,9 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 #### Generator Expressions
 - [Example 2-5. Initializing a tuple and an array from a generator expression](part2/chapter02/example_2-5.py)
 - [Example 2-6. Cartesian product in a generator expression](part2/chapter02/example_2-6.py)
+### Tuples Are Not Just Immutable Lists
+#### Tuples as Records
+- [Example 2-7. Tuples used as records](part2/chapter02/example_2-7.py)
+#### Tuple Unpacking
+- [Example 2-7-1](part2/chapter02/example_2-7-1.py)
+- [Example 2-7-2](part2/chapter02/example_2-7-2.py)

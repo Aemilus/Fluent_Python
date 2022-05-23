@@ -15,19 +15,24 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 ### [Chapter 02 - An Array of Sequences](part2/chapter02)
 ### List Comprehensions and Generator Expressions
 #### List Comprehensions and Readability
-- [Example 2-1. Build a list of Unicode codepoints from a string](part2/chapter02/example_2-1.py)
-- [Example 2-2. Build a list of Unicode codepoints from a string, take two](part2/chapter02/example_2-2.py)
+- [Example 2-1. Build a list of Unicode codepoints from a string](part2/chapter02/example_2-01.py)
+- [Example 2-2. Build a list of Unicode codepoints from a string, take two](part2/chapter02/example_2-02.py)
 #### Listcomps Versus map and filter
-- [Example 2-3. The same list built by a listcomp and a map/filter composition](part2/chapter02/example_2-3.py)
+- [Example 2-3. The same list built by a listcomp and a map/filter composition](part2/chapter02/example_2-03.py)
 - [Map, Filter and Reduce](part2/chapter02/map_filter_reduce.md)
 #### Cartesian Products
-- [Example 2-4. Cartesian product using a list comprehension](part2/chapter02/example_2-4.py)
+- [Example 2-4. Cartesian product using a list comprehension](part2/chapter02/example_2-04.py)
 #### Generator Expressions
-- [Example 2-5. Initializing a tuple and an array from a generator expression](part2/chapter02/example_2-5.py)
-- [Example 2-6. Cartesian product in a generator expression](part2/chapter02/example_2-6.py)
+- [Example 2-5. Initializing a tuple and an array from a generator expression](part2/chapter02/example_2-05.py)
+- [Example 2-6. Cartesian product in a generator expression](part2/chapter02/example_2-06.py)
 ### Tuples Are Not Just Immutable Lists
 #### Tuples as Records
-- [Example 2-7. Tuples used as records](part2/chapter02/example_2-7.py)
+- [Example 2-7. Tuples used as records](part2/chapter02/example_2-07.py)
 #### Tuple Unpacking
-- [Example 2-7-1](part2/chapter02/example_2-7-1.py)
-- [Example 2-7-2](part2/chapter02/example_2-7-2.py)
+- [Example 2-7-1](part2/chapter02/example_2-07-1.py)
+- [Example 2-7-2](part2/chapter02/example_2-07-2.py)
+#### Nested Tuple Unpacking
+- [Example 2-8. Unpacking nested tuples to access the longitude](part2/chapter02/example_2-08.py)
+#### Named Tuples
+- [Example 2-9. Defining and using a named tuple type](part2/chapter02/example_2-09.py)
+- [Example 2-10. Named tuple attributes and methods](part2/chapter02/example_2-10.py)

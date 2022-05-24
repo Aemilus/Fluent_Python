@@ -36,3 +36,8 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 #### Named Tuples
 - [Example 2-9. Defining and using a named tuple type](part2/chapter02/example_2-09.py)
 - [Example 2-10. Named tuple attributes and methods](part2/chapter02/example_2-10.py)
+### Slicing
+#### Slice Objects
+- [Example 2-11. Line items from a flat-file invoice]()
+#### Assigning to Slices
+- [Example 2-11-1](part2/chapter02/example_2-11-1.py)

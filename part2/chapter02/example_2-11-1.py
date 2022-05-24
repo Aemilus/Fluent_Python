@@ -26,7 +26,7 @@ if __name__ == '__main__':
     print('Try k[2:5] = 100:')
     try:
         k[2:5] = 100
-    except Exception as e:
+    except TypeError as e:
         print(e)
 
     print('Try k[2:5] = [100]:')

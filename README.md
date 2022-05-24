@@ -41,3 +41,7 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 - [Example 2-11. Line items from a flat-file invoice]()
 #### Assigning to Slices
 - [Example 2-11-1](part2/chapter02/example_2-11-1.py)
+### Using `+` and `*` with Sequences
+#### Building Lists of Lists
+- [Example 2-12. A list with three lists of length 3 can represent a tic-tac-toe board](part2/chapter02/example_2-12.py)
+- [Example 2-13. A list with three references to the same list is useless](part2/chapter02/example_2-13.py)

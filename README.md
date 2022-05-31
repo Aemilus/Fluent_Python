@@ -45,3 +45,7 @@ from book _Fluent Python_ written by _Luciano Ramalho_.
 #### Building Lists of Lists
 - [Example 2-12. A list with three lists of length 3 can represent a tic-tac-toe board](part2/chapter02/example_2-12.py)
 - [Example 2-13. A list with three references to the same list is useless](part2/chapter02/example_2-13.py)
+### Augmented Assignment with Sequences
+#### A += Assignment Puzzler
+- [Example 2-14. A riddle](part2/chapter02/example_2-14.py)
+- [Example 2-16. Bytecode for the expression s[a] += b](part2/chapter02/example_2-16.py)
